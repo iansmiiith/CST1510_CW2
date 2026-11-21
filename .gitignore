@@ -1,0 +1,4 @@
+.Ds_Store
+.venv/
+.ipynb_checkpoints/
+.__pycahce__/
